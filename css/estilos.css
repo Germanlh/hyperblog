@@ -41,3 +41,10 @@ body{
 .icono{
     width: 3rem;
 }
+
+.footer{
+    width: 80%;
+    background-color: #555;
+    margin: 0 auto;
+    padding: 0.5rem;
+}
